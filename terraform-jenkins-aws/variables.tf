@@ -32,5 +32,5 @@ variable "instance_ami" {
 
 }
 variable "keyname" {
-  default = "tf-jenkins-aws"
+  default = "jenkins-test-keys"
 }
